@@ -1,4 +1,3 @@
-# Adversarial-Search
 Minimax algorithm using alpha-beta pruning on Reversi game
 
 The rules of the Reversi game can be found at http://en.wikipedia.org/wiki/Reversi and
